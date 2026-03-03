@@ -1,0 +1,62 @@
+/* 
+ * Obsidian Background Theme - 静态背景图片
+ * 添加固定背景图片到Obsidian
+ */
+
+/* 设置单一背景图片 */
+.theme-light, .theme-dark {
+  --background-image: url('/home/xxh/Pictures/ubuntu/pexels-yanping-ma-452610387-17684956.jpg');
+}
+
+/* 应用背景到主工作区 */
+.workspace-split.mod-root {
+  background-image: var(--background-image) !important;
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+}
+
+/* 确保编辑器区域背景透明，保持可读性 */
+.markdown-source-view,
+.markdown-rendered {
+  background: transparent !important;
+}
+
+/* 保持编辑区域的背景色以提高文字可读性 */
+.markdown-source-view.mod-cm6 .cm-editor,
+.markdown-rendered {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.theme-dark .markdown-source-view.mod-cm6 .cm-editor,
+.theme-dark .markdown-rendered {
+  background-color: rgba(30, 30, 30, 0.9) !important;
+}
+
+/* 标题栏保持适当背景色 */
+.view-header {
+  background-color: rgba(var(--mono-rgb-0), 0.85) !important;
+}
+
+/* 对话框和弹窗保持清晰 */
+.modal,
+.prompt,
+.suggestion-container {
+  background-color: var(--background-primary) !important;
+  backdrop-filter: blur(4px);
+}
+
+/* 侧边栏保持透明背景 */
+.workspace-fake-target {
+  background: transparent;
+}
+
+/* 表格和引用块透明度调整 */
+.markdown-rendered table {
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+.markdown-rendered blockquote {
+  background-color: rgba(52, 152, 219, 0.18);
+}

@@ -1,0 +1,13 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "obsidian-background",
+    "homepage"
+  ],
+  "translucency": false,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "theme": "moonstone",
+  "accentColor": ""
+}

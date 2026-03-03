@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "379a274013ceb889",
+    "type": "split",
+    "children": [
+      {
+        "id": "41c770686051b39e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11b5bec65f6b0a97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "40b7b3ccd53236de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6c7523c3b82e4444",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a1c9a6f7aeeae753",
+    "type": "split",
+    "children": [
+      {
+        "id": "c23a0996937ae69c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9442392dee1a050f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "0ac6d3d380cbead4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📅 日记/2026-02-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-02-23 的反向链接列表"
+            }
+          },
+          {
+            "id": "88698462dd2e6b4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Home 的出链列表"
+            }
+          },
+          {
+            "id": "4e7e62c59530d985",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "33d16b4fc2977bda",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c0b05cae49361dd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📅 日记/2026-02-23.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-02-23 的大纲"
+            }
+          },
+          {
+            "id": "098bcee17904f91a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "1502bb15f4f6d6aa",
+            "type": "leaf",
+            "state": {
+              "type": "github-issue-controls-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "github-issue-controls-view"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "bcc047cce6cc8e56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a94a6371c79aa211",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "homepage:Open homepage": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "i18n:I18N": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Home.md",
+    "📅 日记/2026-02-28.md",
+    "📅 日记/2026-03-03.md",
+    "💡 Ideas/Ubuntu会议观点汇总.md",
+    "Ubuntu 技能推荐.md",
+    "ollama.md",
+    "💡 Ideas/抖音计划/小小海文案/2026-03-03.md",
+    "💡 Ideas/抖音计划/抖音账号简介.md",
+    "💡 Ideas/抖音计划/小小海文案/2026-02-28.md",
+    "📖 学习/时间是否存在2.0.md",
+    "💡 Ideas/抖音计划/小小海团队第一天最终版.md",
+    "💡 Ideas/抖音计划/3月3日抖音文案.md",
+    "💼 工作/Obsidian配置项目-2026-02-13.md",
+    "📚 读书笔记/《时间的秩序》读书笔记.md",
+    "📖 学习/Linux进阶学习计划.md",
+    "openclaw的作用.md",
+    "OpenClaw 的**技能社区**.md",
+    "📁 项目笔记/架构2.0.md",
+    "📁 项目笔记/2026-03-01-团队复盘.md",
+    "📁 项目笔记",
+    "📋 模板/运动模板.md",
+    "📋 模板/读书模板.md",
+    "📋 模板/电影模板.md",
+    "📋 模板/日记模板.md",
+    "📋 模板/工作模板.md",
+    "📋 模板",
+    "📖 学习/Linux命令.md",
+    "📖 学习",
+    "💻 Ubuntu/卸载snap.md",
+    "💻 Ubuntu",
+    "未命名.canvas",
+    "未命名",
+    "📔Books/时间的秩序.epub",
+    "项目笔记",
+    "学习",
+    "💡 Ideas/小小海音乐播放器.html",
+    "Books.base",
+    "📔Books/covers/朗达·拜恩 作品集_cover.jpeg",
+    "📔Books/covers/宇宙的琴弦 宇宙的结构 上帝与新物理学 时间之箭 物理学的困惑 终极理论之梦 量子之谜 存在之轻 不同的宇宙... (z-library.sk, 1lib.sk, z-lib.sk)_cover.jpg",
+    "📔Books/covers/时间的秩序_cover.jpg",
+    "📃素材/pexels-joyston-judah-331625-933054 (Edited).jpg",
+    "🖼素材/pexels-joyston-judah-331625-933054.jpg",
+    "📃素材/截图 2026-02-13 23-23-31.png",
+    "📃素材/截图 2026-02-13 22-28-55.png",
+    "📃素材/截图 2026-02-14 04-03-41.png",
+    "📃素材/截图 2026-02-14 03-13-24.png",
+    "blackgroad.jpeg",
+    "主页.canvas",
+    "HOME.canvas",
+    "未命名 1.canvas"
+  ]
+}

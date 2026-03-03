@@ -1,0 +1,142 @@
+/* 
+ * DiaryTheme - 主题文件
+ * 用于配合CSS片段使用
+ */
+
+/* 整体布局优化 */
+.theme-light, .theme-dark {
+  --font-size-normal: 16px;
+  --font-line-height: 1.6;
+}
+
+/* 标题美化 */
+h1, h2, h3 {
+  color: #2c3e50;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 5px;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  border-bottom: 3px solid #3498db;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+/* 待办事项美化 */
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task=" "] mark,
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"] mark,
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task=">"] mark,
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="-"] mark {
+  background-color: #ecf0f1;
+  border-radius: 4px;
+  padding: 2px 6px;
+  margin-right: 8px;
+}
+
+.task-list-item-checkbox {
+  width: 18px;
+  height: 18px;
+  accent-color: #3498db;
+}
+
+/* 表格美化 */
+.markdown-rendered table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 15px 0;
+}
+
+.markdown-rendered th {
+  background-color: #3498db;
+  color: white;
+  padding: 10px;
+  text-align: left;
+}
+
+.markdown-rendered td {
+  padding: 8px 10px;
+  border: 1px solid #ddd;
+}
+
+/* 引用块美化 */
+blockquote {
+  background-color: #f8f9fa;
+  border-left: 4px solid #3498db;
+  padding: 10px 15px;
+  margin: 15px 0;
+  border-radius: 0 4px 4px 0;
+}
+
+/* 代码块美化 */
+code {
+  background-color: #f8f9fa;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 14px;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* 分隔线美化 */
+hr {
+  border: 0;
+  height: 2px;
+  background: linear-gradient(to right, transparent, #3498db, transparent);
+  margin: 30px 0;
+}
+
+/* Emoji 样式优化 */
+.emoji {
+  vertical-align: middle;
+  margin: 0 2px;
+}
+
+/* 侧边栏优化 */
+.workspace-tabs .workspace-leaf-content {
+  background-color: var(--background-primary-alt);
+}
+
+/* 搜索框美化 */
+.search-input-container input {
+  border-radius: 20px;
+  padding: 8px 15px;
+}
+
+/* 滚动条美化 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #bdc3c7;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #95a5a6;
+}
+
+/* 悬浮窗样式 */
+.popover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
+
+/* 高亮文本 */
+mark {
+  background-color: #ffeaa7;
+  padding: 1px 3px;
+  border-radius: 3px;
+}
