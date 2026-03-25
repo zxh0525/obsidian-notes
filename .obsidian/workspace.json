@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "📅 日记/2026-03-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2026-03-24"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "openclaw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Home 的出链列表"
+              "title": "openclaw 的出链列表"
             }
           },
           {
@@ -166,37 +166,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅 日记/2026-02-23.md",
+                "file": "📅 日记/2026-03-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-23 的大纲"
+              "title": "2026-03-24 的大纲"
             }
           },
           {
-            "id": "098bcee17904f91a",
+            "id": "e230c89aefd4983b",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "empty",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "1502bb15f4f6d6aa",
-            "type": "leaf",
-            "state": {
-              "type": "github-issue-controls-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "github-issue-controls-view"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       },
       {
         "id": "bcc047cce6cc8e56",
@@ -216,74 +206,72 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "graph:查看关系图谱": false,
-      "homepage:Open homepage": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "i18n:I18N": false,
       "workspaces:管理工作区布局": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
-    "📅 日记/2026-02-28.md",
-    "📅 日记/2026-03-03.md",
-    "💡 Ideas/Ubuntu会议观点汇总.md",
-    "Ubuntu 技能推荐.md",
-    "ollama.md",
-    "💡 Ideas/抖音计划/小小海文案/2026-03-03.md",
-    "💡 Ideas/抖音计划/抖音账号简介.md",
-    "💡 Ideas/抖音计划/小小海文案/2026-02-28.md",
     "📖 学习/时间是否存在2.0.md",
-    "💡 Ideas/抖音计划/小小海团队第一天最终版.md",
-    "💡 Ideas/抖音计划/3月3日抖音文案.md",
-    "💼 工作/Obsidian配置项目-2026-02-13.md",
-    "📚 读书笔记/《时间的秩序》读书笔记.md",
-    "📖 学习/Linux进阶学习计划.md",
-    "openclaw的作用.md",
-    "OpenClaw 的**技能社区**.md",
+    "📔Books/covers/朗达·拜恩 作品集_cover.jpeg",
+    "📔Books/covers/时间的秩序_cover.jpg",
+    "📔Books/covers/宇宙的琴弦 宇宙的结构 上帝与新物理学 时间之箭 物理学的困惑 终极理论之梦 量子之谜 存在之轻 不同的宇宙... (z-library.sk, 1lib.sk, z-lib.sk)_cover.jpg",
+    "📔Books/covers",
+    "📔Books/Bookshelf.md",
+    "📋 模板/运动模板.md",
+    "📅 日记/2026-02-28.md",
+    "📅 日记/2026-02-24.md",
+    "📅 日记/2026-02-23.md",
+    "📅 日记/2026-02-22.md",
+    "📅 日记/2026-02-21.md",
+    "📅 日记/2026-02-20.md",
+    "📅 日记/2026-02-14.md",
+    "📅 日记/2026-02-13.md",
     "📁 项目笔记/架构2.0.md",
     "📁 项目笔记/2026-03-01-团队复盘.md",
-    "📁 项目笔记",
-    "📋 模板/运动模板.md",
-    "📋 模板/读书模板.md",
-    "📋 模板/电影模板.md",
-    "📋 模板/日记模板.md",
-    "📋 模板/工作模板.md",
-    "📋 模板",
-    "📖 学习/Linux命令.md",
-    "📖 学习",
+    "💼 工作/Obsidian配置项目-2026-02-13.md",
+    "💼 工作",
     "💻 Ubuntu/卸载snap.md",
     "💻 Ubuntu",
-    "未命名.canvas",
+    "💡 Ideas/音乐API文档.md",
+    "💡 Ideas/空投项目计划.md",
+    "💡 Ideas/抖音运营计划.md",
+    "💡 Ideas/抖音计划/小小海文案/2026-03-03.md",
+    "💡 Ideas/抖音计划/小小海文案/2026-02-28.md",
+    "💡 Ideas/抖音计划/小小海文案/2026-02-27第二波.md",
+    "💡 Ideas/抖音计划/小小海文案/2026-02-27图文文案.md",
+    "💡 Ideas/抖音计划/抖音账号简介.md",
+    "💡 Ideas/抖音计划/小小海文案",
+    "💡 Ideas/抖音计划/小小海团队第一天最终版.md",
+    "💡 Ideas/抖音计划",
+    "💡 Ideas/小红书AI工具账号运营计划（完整版）.md",
+    "💡 Ideas/小红书AI工具账号运营SOP.md",
+    "💡 Ideas/团队会议",
+    "🏃‍♂️ 运动",
     "未命名",
-    "📔Books/时间的秩序.epub",
-    "项目笔记",
-    "学习",
-    "💡 Ideas/小小海音乐播放器.html",
-    "Books.base",
-    "📔Books/covers/朗达·拜恩 作品集_cover.jpeg",
-    "📔Books/covers/宇宙的琴弦 宇宙的结构 上帝与新物理学 时间之箭 物理学的困惑 终极理论之梦 量子之谜 存在之轻 不同的宇宙... (z-library.sk, 1lib.sk, z-lib.sk)_cover.jpg",
-    "📔Books/covers/时间的秩序_cover.jpg",
-    "📃素材/pexels-joyston-judah-331625-933054 (Edited).jpg",
-    "🖼素材/pexels-joyston-judah-331625-933054.jpg",
-    "📃素材/截图 2026-02-13 23-23-31.png",
-    "📃素材/截图 2026-02-13 22-28-55.png",
-    "📃素材/截图 2026-02-14 04-03-41.png",
-    "📃素材/截图 2026-02-14 03-13-24.png",
-    "blackgroad.jpeg",
+    "Pasted image 20260315220202.png",
+    "Pasted image 20260315215909.png",
+    "📃素材/截图 2026-03-17 22-26-37.png",
+    "📃素材/截图 2026-03-17 22-35-09.png",
+    "📃素材/截图 2026-03-17 22-36-16.png",
+    "📃素材/截图 2026-03-17 22-39-36.png",
+    "Pasted image 20260315223600.png",
+    "📁 openclaw项目/02-自媒体运营/闲鱼/xianyu_uploader.py",
+    "📁 openclaw项目/02-自媒体运营/闲鱼/pdd_monitor.py",
+    "未命名.canvas",
     "主页.canvas",
     "HOME.canvas",
     "未命名 1.canvas"
