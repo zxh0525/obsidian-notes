@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📋 模板/自动化运维框架.md",
+                "file": "📅 日记/2026-03-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自动化运维框架"
+              "title": "2026-03-25"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📋 模板/自动化运维框架.md",
+                "file": "📅 日记/2026-03-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "自动化运维框架 的大纲"
+              "title": "2026-03-25 的大纲"
             }
           },
           {
@@ -234,8 +234,11 @@
   },
   "active": "621394459de1dc85",
   "lastOpenFiles": [
-    "📁 openclaw项目/02-自媒体运营/抖音/评论区养号文案-20260325.md",
+    "🏆成就/2026年3月.md",
+    "📅 日记/2026-03-25.md",
     "📋 模板/自动化运维框架.md",
+    "📋 模板/运动模板.md",
+    "📁 openclaw项目/02-自媒体运营/抖音/评论区养号文案-20260325.md",
     "📁 openclaw项目/股票/选股流程记录_20260325.md",
     "📁 openclaw项目/股票/evening_workflow.md",
     "📁 openclaw项目/05-待整理/xiaohongshu_20260315.md",
@@ -252,7 +255,6 @@
     "📔Books/covers/宇宙的琴弦 宇宙的结构 上帝与新物理学 时间之箭 物理学的困惑 终极理论之梦 量子之谜 存在之轻 不同的宇宙... (z-library.sk, 1lib.sk, z-lib.sk)_cover.jpg",
     "📔Books/covers",
     "📔Books/Bookshelf.md",
-    "📋 模板/运动模板.md",
     "📅 日记/2026-02-28.md",
     "📅 日记/2026-02-24.md",
     "📅 日记/2026-02-23.md",
@@ -263,9 +265,7 @@
     "📅 日记/2026-02-13.md",
     "📁 项目笔记/架构2.0.md",
     "📁 项目笔记/2026-03-01-团队复盘.md",
-    "💼 工作/Obsidian配置项目-2026-02-13.md",
     "💼 工作",
-    "💻 Ubuntu/卸载snap.md",
     "💻 Ubuntu",
     "💡 Ideas/抖音计划/小小海文案",
     "💡 Ideas/抖音计划",
