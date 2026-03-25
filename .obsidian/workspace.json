@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📁 openclaw项目/02-自媒体运营/抖音/评论区养号文案-20260325.md",
+                "file": "📋 模板/自动化运维框架.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "评论区养号文案-20260325"
+              "title": "自动化运维框架"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📁 openclaw项目/02-自媒体运营/抖音/评论区养号文案-20260325.md",
+                "file": "📋 模板/自动化运维框架.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "评论区养号文案-20260325 的大纲"
+              "title": "自动化运维框架 的大纲"
             }
           },
           {
@@ -234,9 +234,10 @@
   },
   "active": "621394459de1dc85",
   "lastOpenFiles": [
+    "📁 openclaw项目/02-自媒体运营/抖音/评论区养号文案-20260325.md",
+    "📋 模板/自动化运维框架.md",
     "📁 openclaw项目/股票/选股流程记录_20260325.md",
     "📁 openclaw项目/股票/evening_workflow.md",
-    "📁 openclaw项目/02-自媒体运营/抖音/评论区养号文案-20260325.md",
     "📁 openclaw项目/05-待整理/xiaohongshu_20260315.md",
     "📁 openclaw项目/02-自媒体运营/抖音/能动性抖音文案-20260325.md",
     "随手.md",
@@ -266,7 +267,6 @@
     "💼 工作",
     "💻 Ubuntu/卸载snap.md",
     "💻 Ubuntu",
-    "💡 Ideas/音乐API文档.md",
     "💡 Ideas/抖音计划/小小海文案",
     "💡 Ideas/抖音计划",
     "💡 Ideas/团队会议",
