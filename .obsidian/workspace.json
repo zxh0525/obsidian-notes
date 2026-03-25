@@ -184,9 +184,19 @@
               "icon": "lucide-file",
               "title": "新标签页"
             }
+          },
+          {
+            "id": "4b9862a7ba1d409b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "bcc047cce6cc8e56",
@@ -210,7 +220,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "graph:查看关系图谱": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
@@ -220,7 +229,7 @@
       "bases:新建数据库": false,
       "workspaces:管理工作区布局": false,
       "random-note:开始漫游笔记": false,
-      "homepage:Open homepage": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
