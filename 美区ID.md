@@ -7,9 +7,17 @@ edgaruue86572@icloud.com
 出生地：smk
 朋友q111
 工作w222
-父母e333
+父母e333[[美区ID]]
 生日1998-01-08
 美国激活IC
+
+欧易密码
+19898915991——Oe5991..
+API
+apikey = "f50c7c82-4f50-4dc6-b2c2-16aa457f8ef9" 
+secretkey = "84C17EA6C66137E21DC93AA91A01A68A"
+IP = "" 備註名 = "openclaw"
+權限 = "讀取/交易"
 ### **三、相关教程及建议**
 
 - [x] 1.密码修改（2天后再改10号）：[教程](https://support.apple.com/zh-cn/HT201355 "AppleID密码修改教程")
